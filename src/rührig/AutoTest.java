@@ -9,6 +9,9 @@ import java.awt.*;
  * in der die Methoden mit der JUnit-Libary getestet werden.
  * @author Kevin Rührig 3CHIT
  * @version 5/4/2017
+ * 
+ * GitHub - SSH:
+ * git@github.com:tgm-kruehrig/AutoTest19_kruehrig.git
  */
 public class AutoTest {
 	
